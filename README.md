@@ -66,7 +66,7 @@ These are the folders used from the original PC game:
 
 ## 🌐 Multiplayer — Work in Progress
 
-Multiplayer is still being improved, but it is already functional and can be played either on a local network or over the Internet.
+Multiplayer is still being improved, but it is already functional and can be played on a local network.
 
 ### 🏠 Local Multiplayer
 
@@ -79,18 +79,6 @@ Example:
 IP:PORT
 
 The other players enter that address to connect to the host.
-
-### 🌍 Playing Over the Internet
-
-It is also possible to play with friends who are outside your local Wi-Fi network.
-
-In this case, the host normally needs to provide their public IP address, followed by a colon (:) and the port displayed by the game.
-
-You can check your public IP address here:
-
-https://www.cual-es-mi-ip.net/
-
-Depending on your router and Internet provider configuration, you may need to configure or forward the corresponding port.
 
 ⚠️ Multiplayer is still under development, so this functionality may continue to receive improvements and changes in future versions.
 
